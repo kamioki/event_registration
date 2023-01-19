@@ -22,7 +22,6 @@ namespace AssessmentB
             int adults = 0, kids = 0, senior = 0;
 
             /////////////TASK1/////////////
-            WriteLine("StudentName: Masayoshi Kamioki (n10838601)\n");
             WriteLine("-----------------TASK1-----------------\n");
             Write("Please enter number of adults:   ");
             //Criterion1-1: ask user to enter number of tickets
